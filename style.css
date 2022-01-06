@@ -37,7 +37,7 @@ body {
 }
 .left-border {
   border-left: 5px solid rgb(98, 98, 201);
-  margin-top: 120px;
+  margin-top: 100px;
 }
 .left-border h1 {
   padding-left: 5px;
@@ -69,18 +69,22 @@ body {
 }
 .develop-container {
   padding-top: 50px;
-  margin-left: -100px;
+  margin-left: -45px;
 }
 .manage-globel {
   width: 100%;
   padding-top: 55px;
+}
+.section h1 {
+  font-size: 35px;
+  text-align: center;
 }
 .subscribeWrapper {
   overflow: hidden;
   background: #ff5131;
   padding: 25px;
   border-radius: 10px;
-  width: 1068px;
+  width: 1070px;
   margin-left: 150px;
 }
 
@@ -141,7 +145,7 @@ body {
   border: none;
 }
 footer {
-  margin-top: 100px;
+  margin-top: 80px;
   padding: 20px 0px;
   text-align: center;
   background-color: black;
